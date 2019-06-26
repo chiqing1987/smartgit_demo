@@ -1,0 +1,2 @@
+# smartgit_demo
+这只是一个练习使用SmartGit的测试仓库
